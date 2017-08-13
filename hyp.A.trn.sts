@@ -1,0 +1,18 @@
+      Summary of Statistical Significance Tests:      
+                 Comparing the System                 
+                      hyp.A.trn                       
+          for the  Test with other Systems:           
+
+               MP     
+            --------- 
+ hyp.B.trn  hyp.B.trn 
+
+
+
+                Test Name                      Abbrev.
+------------------------------------------     -------
+Matched Pair Sentence Segment (Word Error)       MP   
+
+Note: System ID with lower error rate is printed if the Null
+      Hypothesis is rejected at the 95% Confidence Level,
+      if not, 'same' is printed.
