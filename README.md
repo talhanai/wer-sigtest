@@ -36,8 +36,7 @@ cat hyp.A.trn.sgml hyp.B.trn.sgml | sc_stats -p -t mapsswe -v -u -n result.A-B.m
 
 **result.A-B.mapsswe.stats.unified** will be generated (output below) stating that _p_ < 0.001 between the hypotheses.
 
-```
-                                                                             |
+```                                                                            
 |------------------------------------------------------------------------------|
 |   Test   ||            |  hyp.A.trn  |       hyp.B.trn        ||    Test     |
 | Abbrev.  ||            |             |                        ||   Abbrev.   |
