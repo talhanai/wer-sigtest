@@ -31,3 +31,6 @@ sclite -F -i wsj -r ref.trn -h hyp.B.trn -o sgml
 ```
 cat hyp.A.trn.sgml hyp.B.trn.sgml | sc_stats -p -t mapsswe -v -u -n result.A-B.mapsswe
 ```
+
+### Statistical Significance Tests Available
+Instead of the `mapsswe` (Matched Pairs Sentence-Segment Word Error) option, you can use `mcn` (McNemar), `sign`, `wilc` (Wilcoxon Signed Rank ), `anovar` (Analysis of Variance), `std4` (standard four - mcn, mapsswe, wilc, and sign)
