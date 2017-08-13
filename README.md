@@ -1,5 +1,5 @@
 # wer-sigtest
-Script to perform statistical significance test between ASR (Automatic Speech Recognition) transcription hypotheses. This can be used to evaluate whether differences in WER (word error rate) are actually significant or not.
+Script to perform statistical significance test between ASR (Automatic Speech Recognition) transcription hypotheses. This can be used to evaluate whether differences in WER (word error rate) are actually significant or not (on the same test set).
 
 ## Install
 
